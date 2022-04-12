@@ -1,0 +1,158 @@
+Eduland - Education landing page
+
+alt = Eduland logo
+
+<ion-icon name="menu-outline"></ion-icon>
+
+<ion-icon name="close-outline"></ion-icon>
+
+alt = Eduland logo
+
+Home
+About
+Service
+Blog
+Contact
+
+Get Started
+
+
+
+# HERO
+
+alt = A young lady sits, holding a pen and a notebook.
+
+Start Your Future Education
+
+Credibly redefine distinctive total linkage vis-a-vis multifunction data. Phosphorescently impact goal-oriented strategic
+
+Discover More
+
+
+
+# ABOUT
+
+alt = Eduland students
+alt = Vector line art
+
+<ion-icon name="play"></ion-icon>
+
+We Help to Create Possibility & Success in Your Career!
+
+Continually administrate process-centric human capital rather than bleeding-edge methodologies. Distinctively supply accurate methods of empowerment before.
+
+Get Started Today
+
+
+
+# DEPARTMENTS
+
+alt = Vector line art
+
+We Have Most of Popular Departments
+
+alt = Artificial Intelligence
+Artificial Intelligence
+
+Assertively parallel task synergistic deliverables after high-quality.
+
+Learn More 
+<ion-icon name="arrow-forward"></ion-icon>
+
+alt = Civil Engineering
+Civil Engineering
+
+alt = Business Studies
+Business Studies
+
+View All Department
+
+
+
+# INSTRUCTORS
+
+alt = Vector line art
+
+Introduce with Our Famous Teacher
+
+View All Teachers
+
+alt = Shaapir Prio
+Shaapir Prio
+
+Assistant Director
+
+<ion-icon name="logo-google"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+
+alt = Sellina
+Sellina
+
+Director
+
+alt = John Smith
+John Smith
+
+Assistant Director
+
+
+
+# CTA
+
+Create Free Account & Get Register
+
+alt = Vector arrow art
+
+Register Now
+
+
+
+# FOOTER
+
+alt = Eduland logo
+
+Professionally scale cross functional human capital and extensive technology.
+
+<ion-icon name="logo-google"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+
+Services
+
+Design
+Development
+Marketing
+Content Writing
+
+Company
+
+About
+Terms
+Privacy Policy
+Careers
+
+Job Info
+
+Select
+Services
+Payment
+
+Contact
+
+Call : 
+546 3876 387
+Email : 
+example@gmail.com
+Address : 
+San Francisco, USA
+
+&copy; 2022 codewithsadee. All right reserved
+
+
+
+# GO TO TOP
+
+<ion-icon name="arrow-up"></ion-icon>
